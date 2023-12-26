@@ -13,6 +13,7 @@ insert into student values(101,"Anil",78,"c","pune"),
 (104,"dhruv",96,"A","pune"),
 (105,"Emanuael",12,"F","Delhi"),
 (106,"farah",82,"B","Delhi");
+Set sql_safe_updates=0;
  update student 
  set grade = "O"
  where grade="A";
