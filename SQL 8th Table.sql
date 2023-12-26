@@ -19,4 +19,5 @@ select city, avg(marks) from student;
 select city,count(name)
 where max(marks)>90
 group by city
-having max(marks)>90;
+having max(marks)>90
+order by city ASC;
