@@ -11,7 +11,7 @@ INSERT INTO student_details values
 (101,"anil",78),
 (102,"bhumika",93),
 (103,"chetan",85),
-(104,"dhruv",96),
+(104,"dhruv",96),,
 (105,"emanuel",92),
 (106,"farah",82);
 
