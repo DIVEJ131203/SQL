@@ -9,6 +9,7 @@ public class JavaBasicsl2q1 {
         int xz = (a % b);
         System.out.println(a);
 
+
         System.out.println(b);
         System.out.println(x);
         System.out.println(y);
