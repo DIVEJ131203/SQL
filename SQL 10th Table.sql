@@ -2,6 +2,7 @@ create database college;
 use college;
 create table student1(
 rollno int primary key,
+ 
 name varchar(50),
 marks int not null,
 grade varchar(1),
